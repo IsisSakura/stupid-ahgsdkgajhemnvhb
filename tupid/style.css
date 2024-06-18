@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.headrr{
+    background-color: #728C66;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-image-width: 10;
+}
+
+.img_2{
+    width: 45%;
+}
+.body-1{
+    padding: 50px;
+    margin: 10, 16px;
+    background-color: #8CA680;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.body-3{
+    background-color: #728C66;
+    color: #728C66;
+}
