@@ -28,3 +28,24 @@
     background-color: #728C66;
     color: #728C66;
 }
+.body-4{
+    padding: 90px;
+    margin: 10, 16px;
+    background-color: #8CA680;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img_3{
+    width: 50%;
+}
+.body-6{
+    padding: 90px;
+    margin: 10, 16px;
+    background-color: #8CA680;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
