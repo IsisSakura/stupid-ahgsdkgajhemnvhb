@@ -13,7 +13,8 @@
 }
 
 .img_2{
-    width: 45%;
+    width: 100%;
+    filter:drop-shadow(#728C66 1rem 1rem 10px)
 }
 .body-1{
     padding: 50px;
@@ -23,6 +24,10 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+.body-2{
+    display: inline-block;
+    margin: 10, 10px;
 }
 .body-3{
     background-color: #728C66;
@@ -38,7 +43,8 @@
     align-items: center;
 }
 .img_3{
-    width: 50%;
+    width: 100%;
+    filter:drop-shadow(#728C66 1rem 1rem 10px)
 }
 .body-6{
     padding: 90px;
